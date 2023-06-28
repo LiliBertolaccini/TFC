@@ -1,0 +1,14 @@
+{
+  "eslint.workingDirectories": [
+    "app/backend",
+    "app/frontend"
+  ],
+  "cSpell.words": [
+    "caso",
+    "formato",
+    "inválido",
+    "Loging",
+    "retornar",
+    "tenha"
+  ]
+}
